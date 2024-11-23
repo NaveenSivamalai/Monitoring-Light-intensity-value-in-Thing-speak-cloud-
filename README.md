@@ -1,6 +1,6 @@
 ## NAME : NAVEEN S
 ## REG. NO.: 212222110030
-# Monitoring-Light-intensity-value-in-Thing-speak-cloudand Uploading LDR sensor data in Thing Speak cloud
+# 3.Monitoring-Light-intensity-value-in-Thing-speak-cloud and Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
